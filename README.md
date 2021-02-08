@@ -123,7 +123,7 @@ $ yarn ios
 ```
 
 ## :memo: License
-This project is under the MIT License. See the archive [LICENSE](LICENSE.md) for more details.
+This project is under the MIT License. See the archive [LICENSE](LICENSE) for more details.
 
 ##
 Developed by Eliseu Damasceno.
