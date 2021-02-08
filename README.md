@@ -15,6 +15,19 @@ If the provider accesses the mobile app, he can schedule an appointment with ano
 
 Each appointment has duration of 1 hour, then each provider can have 10 appointments per day.
 
+
+**_Web Application_**
+
+<p align="center">
+  <img alt="GoBarber web application" src="https://github.com/damascenoeliseu/GoBarberApp_GoStackBootcamp/blob/master/.github/animationGIFWebApp.gif"/>
+</p>
+
+**_Mobile Application_**
+
+<p align="center">
+  <img alt="GoBarber mobile application" src="https://github.com/damascenoeliseu/GoBarberApp_GoStackBootcamp/blob/master/.github/animationGIFMobileApp.gif"/>
+</p>
+
 ## :rocket: Technologies
 Below some main technologies that this project was developed with:
 - [PostgreSQL](https://www.postgresql.org)
@@ -126,4 +139,4 @@ $ yarn ios
 This project is under the MIT License. See the archive [LICENSE](LICENSE) for more details.
 
 ##
-Developed by Eliseu Damasceno.
+<p align="center">Developed by Eliseu Damasceno.</p>
